@@ -5,10 +5,10 @@ excerpt: "Contact"
 author_profile: true
 ---
 
-* Office:\
+* **Office:**\
 E1054 Coda Bldg, Georgia Tech\
 756 West Peachtree St NW\
 Atlanta, GA 30308
 
-* Email:
+* **Email:**
 mingyiliu at gatech.edu
