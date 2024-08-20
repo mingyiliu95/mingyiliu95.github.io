@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Mingyi Liu"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in
-                      College of Computing,
+  bio              : "Ph.D. student in\n
+                      College of Computing,\n
                       Georgia Institute of Technology"
   location         : "Atlanta, GA"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=SFL4iBAAAAAJ"
+  email            : "mingyiliu@gatech.edu"
   researchgate     :  #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "mingyiliu95"
   google_plus      :
   keybase          :
   instagram        :
