@@ -80,14 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mingyi Liu (柳明仪)"
+  name             : "Mingyi Liu"
   avatar           : "profile.png"
   bio              : |
-		     "Ph.D. student in"\n
-    
-		     "College of Computing,"\n
- 
- 		     "Georgia Institute of Technology"
+                     "Ph.D. student in"\n
+                     "College of Computing,"\n
+                     "Georgia Institute of Technology"
   location         : "Atlanta, GA"
   employer         :
   pubmed           : 
