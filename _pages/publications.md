@@ -1,16 +1,12 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+#### 2024
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+I Experienced More than 10 DeFi Scams: On DeFi Users' Perception of Security Breaches and Countermeasures \
+[*USENIX Security Symposium*](https://www.usenix.org/conference/usenixsecurity24) \
+**Mingyi Liu**, Jun Ho Huh, HyungSeok Han, Jaehyuk Lee, Jihae Ahn, Frank Li, Hyoungshick Kim, Taesoo Kim \
+[paper](http://mingyiliu.me/files/defi-paper.pdf), [slides](http://mingyiliu.me/files/defi-slides.pdf)
