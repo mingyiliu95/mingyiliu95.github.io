@@ -82,10 +82,9 @@ analytics:
 author:
   name             : "Mingyi Liu"
   avatar           : "profile.png"
-  bio              : |
-                     Ph.D. student in\n
+  bio              : Ph.D. student in
 
-                     College of Computing,\n
+                     College of Computing,
 
                      Georgia Institute of Technology
   location         : "Atlanta, GA"
