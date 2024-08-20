@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Computer Science Ph.D. student in the [School of Cybersecurity and Privacy](https://scp.cc.gatech.edu/) at Georgia Tech. I am honored working with [Prof. Taesoo Kim](https://taesoo.kim/) at the [Systems Software & Security Lab (SSLab)](https://gts3.org/). Before pursuing a Ph.D., I received my Master's degree in [Computational Science and Engineering](https://www.cse.gatech.edu/) from Georgia Tech and Bachelor's from [China University of Mining and Technology, Beijing](https://english.cumtb.edu.cn/).
+I am currently a Computer Science Ph.D. student in the [School of Cybersecurity and Privacy](https://scp.cc.gatech.edu/) at Georgia Tech. I am honored working with [Prof. Taesoo Kim](https://taesoo.kim/) at the [Systems Software & Security Lab (SSLab)](https://gts3.org/). Before pursuing a Ph.D., I received my Master's degree in Computational Science and Engineering from Georgia Tech and Bachelor's from China University of Mining and Technology-Beijing.
 
 My research interests span system and software security, blockchain security, and related usable security.
 
