@@ -17,7 +17,7 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronunciation %}<p class="author__pronunciation"><i class="fa fa-volume-up" aria-hidden="true"></i> {{ author.pronunciation }}</p>{% endif %}
-    {% if author.bio %}<p class="author__bio"><b>{{ author.bio }}</b></p>{% endif %}
+    {% if author.bio %}<h4 class="author__bio">{{ author.bio }}</h4>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
