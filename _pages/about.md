@@ -14,6 +14,8 @@ My research interests span system and software security, blockchain security, an
 
 News
 ======
+**[07/2024]** I received the Student Grant and Diversity Grant to attend USENIX Security 2024. See you in Philly!
+
 **[06/2024]** Our paper on a user study in Decentralized Finance has been accepted to [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24)!
 
 **[05/2021]** I will join Amazon for a summer internship.
