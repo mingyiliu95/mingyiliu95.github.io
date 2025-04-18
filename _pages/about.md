@@ -14,6 +14,8 @@ My research interests span system and software security, blockchain security, an
 
 News
 ======
+**[02/2025]** I have been selected as [a nationwide finalist](https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-finalists) for the 2025 NCWIT Aspirations in Computing (AiC) Collegiate Award.
+
 **[07/2024]** I received the Student Grant and Diversity Grant to attend USENIX Security 2024. See you in Philly!
 
 **[06/2024]** Our paper on a user study in Decentralized Finance has been accepted to [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24)!
