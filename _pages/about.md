@@ -16,14 +16,14 @@ News
 ======
 🚀 **[05/2025]** [Guy Kawasaki](https://guykawasaki.com/guy-kawasaki/), the former Chief Evangelist at Apple, featured our research in his [newsletter](https://guykawasaki.substack.com/p/what-most-crypto-users-get-wrong): *What Most Crypto Users Get Wrong About DeFi Security*.
 
-&nbsp; &nbsp; **[02/2025]** I have been selected as [a nationwide finalist](https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-finalists) for the 2025 NCWIT Aspirations in Computing (AiC) Collegiate Award.
+&nbsp; &nbsp; &nbsp; **[02/2025]** I have been selected as [a nationwide finalist](https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-finalists) for the 2025 NCWIT Aspirations in Computing (AiC) Collegiate Award.
 
-**[07/2024]** I received the Student Grant and Diversity Grant to attend USENIX Security 2024. See you in Philly!
+&nbsp; &nbsp; &nbsp; **[07/2024]** I received the Student Grant and Diversity Grant to attend USENIX Security 2024. See you in Philly!
 
-**[06/2024]** Our paper on a user study in Decentralized Finance has been accepted to [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24)!
+&nbsp; &nbsp; &nbsp; **[06/2024]** Our paper on a user study in Decentralized Finance has been accepted to [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24)!
 
-**[05/2021]** I will join Amazon for a summer internship.
+&nbsp; &nbsp; &nbsp; **[05/2021]** I will join Amazon for a summer internship.
 
-**[05/2021, 08/2020, 06/2020]** [Thank a Teacher](https://thankateacher.gatech.edu/index.php/thank-teacher) note recipient (three times).
+&nbsp; &nbsp; &nbsp; **[05/2021, 08/2020, 06/2020]** [Thank a Teacher](https://thankateacher.gatech.edu/index.php/thank-teacher) note recipient (three times).
 
-**[04/2018]** Outstanding Bachelor's Thesis Award.
+&nbsp; &nbsp; &nbsp; **[04/2018]** Outstanding Bachelor's Thesis Award.
