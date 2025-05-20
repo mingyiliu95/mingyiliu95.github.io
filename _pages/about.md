@@ -14,7 +14,7 @@ My research interests span system and software security, blockchain security, an
 
 News
 ======
-**[05/2025]** [Guy Kawasaki](https://guykawasaki.com/guy-kawasaki/), the former Chief Evangelist at Apple, featured our research in his [newsletter](https://guykawasaki.substack.com/p/what-most-crypto-users-get-wrong): *What Most Crypto Users Get Wrong About DeFi Security*.
+🚀 **[05/2025]** [Guy Kawasaki](https://guykawasaki.com/guy-kawasaki/), the former Chief Evangelist at Apple, featured our research in his [newsletter](https://guykawasaki.substack.com/p/what-most-crypto-users-get-wrong): *What Most Crypto Users Get Wrong About DeFi Security*.
 
 **[02/2025]** I have been selected as [a nationwide finalist](https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-finalists) for the 2025 NCWIT Aspirations in Computing (AiC) Collegiate Award.
 
